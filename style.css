@@ -1,0 +1,442 @@
+html{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    background-color: #E5E5E5;
+    overflow-x: hidden;
+}
+.body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.search img
+{
+    margin-left: 150px;
+    
+}
+.search
+{
+    border: 1px solid #C4C4C4;
+    padding: 10px 20px;
+    border-radius: 6px;
+    display: flex;
+    color: #C4C4C4;
+
+    
+}
+.nav-atas
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+ .main-nav
+ {
+     display: flex;
+     width: 100%;
+     justify-content: space-around;
+     align-items: center;
+     padding: 10px 10px;
+     background: white;
+ }
+
+nav button
+{
+    padding:;
+    border-radius: 6px;
+    border: 1px solid #8BACD4;
+
+
+}
+
+.btn-log
+{
+    background-color: #8BACD4;
+    color: white;
+    width: 100px;
+    height: 40px;
+}
+
+.btn-sign
+{
+    background: transparent;
+    color: #8BACD4;
+    width: 100px;
+    height: 40px;
+}
+.krjng
+{
+    margin-top: 5px;
+}
+.nav-bar
+{
+    
+    display: flex;
+    box-shadow: 2px 8px 62px -9px rgba(187,187,187,0.21);
+    width: 100%;
+    justify-content: flex-start;
+    padding: 10px;
+    background: white;
+      
+}
+.nav-bar li
+{
+    display: flex;
+    padding: 5px 10px;
+}
+.menu
+{
+    display: flex;
+    justify-content: flex-start;
+    
+    margin-top: 13px;
+}
+.dot {
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  .dota {
+    height: 20px;
+    width: 20px;
+    background-color: #8BACD4;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  
+.text1
+{
+    position: absolute;
+    top: 180px;
+   
+    text-align: center;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-left: 630px;   
+    
+}
+
+.kursi .gambar
+{
+    position: relative;
+   
+}
+header
+{
+   
+    background-size: cover;
+    background-position: center;
+}
+
+
+.product
+{
+    
+    text-align: center;
+    font-family: Poppins;
+    font-size: 36px; 
+    color: #33333F;
+    margin-top: 20px;
+}
+.box .price
+{
+    text-align: center;
+}
+.rp
+{
+    color: #FF8080;
+    font-style: normal;
+}
+.box-product
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    
+}
+
+.harga
+{
+    color: #8698E1;
+}
+
+hr
+{
+    width: 71px;
+    border: 3px solid #33333F;
+}
+.bluebox
+{  
+    margin-top: 100px;
+    padding: 60px;
+    background: #DFECF7;
+}
+
+.next{
+    display: flex;
+    justify-content: space-between;
+    top: 200px;
+    
+
+}
+.box
+{
+    width: 250px;
+    height: 352px;
+    background: white;
+    box-shadow: 2px 8px 62px -9px rgba(187,187,187,0.21);
+    border-radius: 8px;
+    margin-left: 30px;
+    align-content: center;
+   
+    
+}
+
+
+.room
+{
+    
+    text-align: center;
+    font-family: Poppins;
+    font-size: 36px; 
+    color: #33333F;
+    margin-top: 200px;
+}
+.box .img
+{
+    align-items: center;
+    border-radius: 8px;
+}
+
+.feature-left
+{
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+}
+.feature-left .content
+{
+    margin-left: 50px;
+}
+.feature-right .content
+{
+    margin-right: 50px;
+}
+.feature-right
+{
+    display: flex;
+    margin-top: 136px;
+    justify-content: space-evenly;
+    
+}
+.btn-more
+{
+    
+    border: 1px solid #FF8080;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 17px 29px;
+    color: #FF8080;
+    background: transparent;
+}
+
+i {
+    border: solid #FF8080;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 8px;
+  }
+  
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+.text2
+{
+    font-size: 32px;
+    text-align: center;
+    
+
+}
+.categ
+{
+    margin-left: 30px;
+}
+.categ .img
+{
+    border-radius: 8px;
+}
+
+.category
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    position: relative;
+}
+.list
+{
+    position: absolute;
+    top: 0px;
+    background: #33333F;
+    color: white;
+    padding: 5px 15px;
+    border-bottom-right-radius: 20px;
+}
+.kotakbiru
+{
+    background: #DFECF7;
+    margin-top: 100px;
+    padding: 50px;
+}
+.wrapper
+{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.inspirations
+{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 100px;
+    
+}
+.from
+{
+    
+    text-align: center;
+    font-family: Poppins;
+    font-size: 36px; 
+    color: #33333F;
+    margin-top: 100px;
+}
+.big-box
+{
+    box-shadow: 2px 8px 62px -9px rgba(187,187,187,0.21);
+    background: white;
+    width: 475px;
+    height: 487px;
+}
+
+
+.box2
+{
+    width: 566px;
+    height: 143px;
+    box-shadow: 2px 8px 62px -9px rgba(187,187,187,0.21);
+    background: white;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    display: flex;
+    font-size: 18px;
+    font-style: normal;
+
+}
+.content
+{
+    padding: 20px;
+}
+
+.container-blue
+{
+    background: #DFECF7;
+    width: 100%;
+    height: 250px;
+    padding: 30px;
+    position: relative;
+    margin-top: 100px;
+}
+.email
+{
+
+    background: white;
+    color: #C4C4C4;
+    padding: 20px 305px 20px 20px ;
+    border: white;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+.emailbox button
+{
+    background: #FF8080;
+    width: 155px;
+    height: 69px;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+}
+.subscribe
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.text
+{
+    margin-right: 100px;
+}
+.text p
+{
+    margin-top: 20px;
+}
+.emailbox
+{
+    display: flex;
+    padding: 30px;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+}
+.contact
+{
+    float: right;
+   
+}
+.contact .con
+{
+    
+    padding: 10px;
+
+}
+.navigate li 
+{
+    list-style-type: none; 
+}
+.con
+{
+    
+    display: flex;
+}
+footer
+{
+    font-size: 13px;
+}
+.Categoris li
+{
+    list-style-type: none;
+}
+.rooms li
+{
+    list-style-type: none;
+}
+.addicional
+{
+    list-style-type: none;
+}
